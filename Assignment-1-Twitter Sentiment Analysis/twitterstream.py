@@ -3,10 +3,10 @@ import urllib2 as urllib
 
 # See assignment1.html instructions or README for how to get these credentials
 
-api_key = "GOZn0qoqoFBrSLcdlVMIxGkc4"
-api_secret = "AvKnyLGjffdD84Z8wHkcXbP46FlZg1q6uEvmzHViClsaeV5Wui"
-access_token_key = "3435692565-GjdX4PLi5Zs3IUrnP37ZVhEz9bLnRoxiQ3oYqWL"
-access_token_secret = "h42L48yD5jTAPy6cO2mEbdqazskur3g9OrjRRfpOlSTdo"
+api_key = "your twitter api key"
+api_secret = "your twitter api_secret"
+access_token_key = "your access token key"
+access_token_secret = "your access token secret key"
 
 _debug = 0
 
